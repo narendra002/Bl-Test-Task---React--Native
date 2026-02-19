@@ -18,11 +18,11 @@ export default function ProductsScreen() {
 
   const filteredProducts = searchQuery.trim()
     ? products.filter(
-        (p) =>
-          p.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          p.brand.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          p.category.toLowerCase().includes(searchQuery.toLowerCase())
-      )
+      (p) =>
+        p.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        p.brand.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        p.category.toLowerCase().includes(searchQuery.toLowerCase())
+    )
     : products;
 
   const handleProductPress = useCallback(
@@ -88,11 +88,6 @@ export default function ProductsScreen() {
             autoCorrect={false}
           />
         </View>
-        <Text style={[styles.resultText, { color: theme.colors.textSecondary }]}>
-          {searchQuery.trim()
-            ? `${filteredProducts.length} results`
-            : `Showing ${products.length} of ${totalCount} products`}
-        </Text>
       </View>
       <FlatList
         testID="products-list"
