@@ -1,0 +1,456 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "Volumizing and lengthening mascara with long-lasting formula.",
+      "price": 9.99,
+      "discountPercentage": 10.48,
+      "rating": 2.56,
+      "stock": 99,
+      "brand": "Essence",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "Versatile eyeshadow palette with built-in mirror for travel use.",
+      "price": 19.99,
+      "discountPercentage": 18.19,
+      "rating": 2.86,
+      "stock": 34,
+      "brand": "Glamour Beauty",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "Lightweight translucent setting powder for smooth matte finish.",
+      "price": 14.99,
+      "discountPercentage": 9.84,
+      "rating": 4.64,
+      "stock": 89,
+      "brand": "Velvet Touch",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "Creamy pigmented lipstick delivering vibrant long-lasting color.",
+      "price": 12.99,
+      "discountPercentage": 12.16,
+      "rating": 4.36,
+      "stock": 91,
+      "brand": "Chic Cosmetics",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "Glossy quick-dry nail polish with rich salon-quality finish.",
+      "price": 8.99,
+      "discountPercentage": 11.44,
+      "rating": 4.32,
+      "stock": 79,
+      "brand": "Nail Couture",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "Fresh clean unisex fragrance suitable for everyday wear.",
+      "price": 49.99,
+      "discountPercentage": 1.89,
+      "rating": 4.37,
+      "stock": 29,
+      "brand": "Calvin Klein",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir",
+      "description": "Elegant evening fragrance with floral and woody notes.",
+      "price": 129.99,
+      "discountPercentage": 16.51,
+      "rating": 4.26,
+      "stock": 58,
+      "brand": "Chanel",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "Luxurious floral fragrance with jasmine and rose notes.",
+      "price": 89.99,
+      "discountPercentage": 14.72,
+      "rating": 3.8,
+      "stock": 98,
+      "brand": "Dior",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine",
+      "description": "Fruity youthful fragrance with mango and jasmine notes.",
+      "price": 69.99,
+      "discountPercentage": 0.62,
+      "rating": 3.96,
+      "stock": 4,
+      "brand": "Dolce & Gabbana",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom",
+      "description": "Modern romantic floral perfume with tuberose and jasmine.",
+      "price": 79.99,
+      "discountPercentage": 14.39,
+      "rating": 2.74,
+      "stock": 91,
+      "brand": "Gucci",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/3.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "Luxury handcrafted bed frame with premium materials.",
+      "price": 1899.99,
+      "discountPercentage": 8.57,
+      "rating": 4.77,
+      "stock": 88,
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "Premium designer sofa with elegant upholstery.",
+      "price": 2499.99,
+      "discountPercentage": 14.4,
+      "rating": 3.92,
+      "stock": 60,
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "Elegant wooden bedside table with storage space.",
+      "price": 299.99,
+      "discountPercentage": 19.09,
+      "rating": 2.87,
+      "stock": 64,
+      "brand": "Furniture Co.",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "Modern ergonomic office chair with timeless design.",
+      "price": 499.99,
+      "discountPercentage": 2.01,
+      "rating": 4.88,
+      "stock": 26,
+      "brand": "Knoll",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Lemon",
+      "description": "Fresh tangy lemons ideal for cooking and juices.",
+      "price": 0.79,
+      "discountPercentage": 9.7,
+      "rating": 3.53,
+      "stock": 31,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Milk",
+      "description": "Nutritious fresh milk for daily consumption.",
+      "price": 3.49,
+      "discountPercentage": 13.74,
+      "rating": 2.61,
+      "stock": 27,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Mulberry",
+      "description": "Sweet mulberries perfect for snacks and desserts.",
+      "price": 4.99,
+      "discountPercentage": 12.87,
+      "rating": 4.95,
+      "stock": 99,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Nescafe Coffee",
+      "description": "Rich flavored instant coffee for a strong cup.",
+      "price": 7.99,
+      "discountPercentage": 1.59,
+      "rating": 4.82,
+      "stock": 57,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Potatoes",
+      "description": "Versatile potatoes suitable for many dishes.",
+      "price": 2.29,
+      "discountPercentage": 5.38,
+      "rating": 4.81,
+      "stock": 13,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Protein Powder",
+      "description": "High protein supplement for fitness and recovery.",
+      "price": 19.99,
+      "discountPercentage": 7.59,
+      "rating": 4.18,
+      "stock": 80,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Red Onions",
+      "description": "Fresh red onions for cooking and salads.",
+      "price": 1.99,
+      "discountPercentage": 9.9,
+      "rating": 4.2,
+      "stock": 82,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Rice",
+      "description": "High quality staple rice for everyday meals.",
+      "price": 5.99,
+      "discountPercentage": 9.29,
+      "rating": 3.18,
+      "stock": 59,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Soft Drinks",
+      "description": "Refreshing assorted flavored soft drinks.",
+      "price": 1.99,
+      "discountPercentage": 17.48,
+      "rating": 4.75,
+      "stock": 53,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Strawberry",
+      "description": "Sweet strawberries perfect for desserts and smoothies.",
+      "price": 3.99,
+      "discountPercentage": 1.12,
+      "rating": 3.08,
+      "stock": 46,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Tissue Paper Box",
+      "description": "Soft tissues for everyday home use.",
+      "price": 2.49,
+      "discountPercentage": 13.28,
+      "rating": 2.69,
+      "stock": 86,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Water Bottle",
+      "description": "Pure drinking water for daily hydration.",
+      "price": 0.99,
+      "discountPercentage": 14.92,
+      "rating": 4.96,
+      "stock": 53,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Decoration Swing",
+      "description": "Elegant decorative swing for home interior styling.",
+      "price": 59.99,
+      "discountPercentage": 10.41,
+      "rating": 3.16,
+      "stock": 47,
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Family Tree Photo Frame",
+      "description": "Stylish frame to showcase family memories.",
+      "price": 29.99,
+      "discountPercentage": 14.87,
+      "rating": 4.53,
+      "stock": 77,
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "House Showpiece Plant",
+      "description": "Artificial plant decor for modern home interiors.",
+      "price": 39.99,
+      "discountPercentage": 7.46,
+      "rating": 4.67,
+      "stock": 28,
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Plant Pot",
+      "description": "Modern stylish pot for indoor or outdoor plants.",
+      "price": 14.99,
+      "discountPercentage": 6.84,
+      "rating": 3.01,
+      "stock": 59,
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+      ]
+    }
+  ]
+}
