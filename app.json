@@ -2,6 +2,7 @@
   "expo": {
     "name": "BlTestTaskReactNative",
     "slug": "BlTestTaskReactNative",
+    "scheme": "bltesttask",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
